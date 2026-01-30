@@ -4,4 +4,3 @@
   <h1>Techl</h1>
 </body>
 </html>
-
